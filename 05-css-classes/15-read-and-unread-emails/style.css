@@ -1,0 +1,13 @@
+.mail {
+  border: 2px solid gray;
+  margin: 5px;
+  padding: 5px;
+}
+.unread {
+  background-color: lightblue;
+  font-weight: bold;
+}
+.spam {
+  color: coral;
+  font-style: italic;
+}
