@@ -1,0 +1,14 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: space-around;
+  justify-content: space-around;
+  height: 280px;
+  width: 300px;
+}
+img {
+  width: 100px;
+  height: 100px;
+  border: 2px solid white;
+  margin: 5px;
+}
