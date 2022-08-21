@@ -1,0 +1,14 @@
+.container,
+.copyright {
+  display: flex;
+  flex-direction: column;
+}
+.copyright,
+h3 {
+  text-align: center;
+}
+.item {
+  padding: 15px;
+  margin: 2px;
+  background-color: #f3ebfe;
+}

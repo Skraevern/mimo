@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  width: 100%;
+  background-color: #de9c51;
+  color: white;
+}
+.item {
+  padding: 8px;
+}
+h3 {
+  text-align: center;
+}
